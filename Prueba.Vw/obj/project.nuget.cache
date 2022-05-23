@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "31/fbxdqh9tii9dcruKkTjY6CFryKA82FsoHy2it7bWsfeCL2PR0FroFaxPp6aZ1znsY+p7X067TFkgwv8JYFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DESARROLLO\\source\\repos\\Prueba.Api\\Prueba.Vw\\Prueba.Vw.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESARROLLO\\.nuget\\packages\\mongodb.bson\\2.15.1\\mongodb.bson.2.15.1.nupkg.sha512",
+    "C:\\Users\\DESARROLLO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DESARROLLO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
